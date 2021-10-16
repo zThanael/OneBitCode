@@ -40,3 +40,4 @@ Adquirir conhecimento sobre a programação de um modo geral, utilizando do curs
 
  - Resolução dos exercicios propostos durante o módulo de HTML5:
   > [Exercício: Criando uma lista.](html/Exercicio%20Listas.html)
+  > [Exercício: Guia das Galáxias.](https://github.com/zThanael/OneBitCode/tree/main/html/Exercicio%20Guia%20de%20Galaxias)
