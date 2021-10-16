@@ -1,5 +1,5 @@
 # OneBitCode
-![Logo](https://onebitcode.com/wp-content/uploads/2020/12/logo-obc-2021-darkbg.png)
+![Logo](https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/logo-obc-2021-lightbg.png)
 
 <div style="text-align: right"> Repositório para acompanhar o curso de FullStack do OneBitCode. </div>
 
@@ -18,6 +18,10 @@
   > - MongoDB.
   </strong>
 -  O curso proporciona o aprendizado por meios de projetos, como por exemplo a criação de um **APP Clone do Evernote.**
+
+
+> <i><h4 align='right'> Caso queira saber mais a respeito do curso, acesse <strong><a href='https://go.hotmart.com/J61015581D'> OneBitCode.</a></strong></h4></i>
+
 
 ---
 
