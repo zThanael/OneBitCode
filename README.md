@@ -8,6 +8,7 @@
 # Sobre:
  O curso de programação **JavaScript Full Stack** da OneBitCode, envolve desde os tópicos iniciantes para quem esta iniciando na área até tópicos avançados para quem já possui conhecimentos na área.
  <li> Tecnologias abordadas durante o curso:</li>
+<p>
 <strong>
     <blockquote>
         <li> HTML5. </li>
@@ -19,7 +20,8 @@
         <li> MongoDB. </li>
     </blockquote>
 </strong>
-   <li> O curso proporciona o aprendizado por meios de projetos, como por exemplo a criação de um <strong>APP Clone do Evernote.</strong></li>
+</p>
+<li> O curso proporciona o aprendizado por meios de projetos, como por exemplo a criação de um <strong>APP Clone do Evernote.</strong></li>
 
 
 > <i><h4 align='right'> Caso queira saber mais a respeito do curso, acesse <strong><a href='https://go.hotmart.com/J61015581D'> OneBitCode.</a></strong></h4></i>
@@ -27,7 +29,7 @@
 
 ---
 
-# Objetivo:
+# Objetivo do repositório:
 Adquirir conhecimento sobre a programação de um modo geral, utilizando do curso em conjunto deste repositório para realizar práticas para aprimorar a experiência consequentemente aumentando o conhecimento adquirido ao decorrer deste projeto.
 
 ---
@@ -37,4 +39,4 @@ Adquirir conhecimento sobre a programação de um modo geral, utilizando do curs
  ### HTML5:
 
  - Resolução dos exercicios propostos durante o módulo de HTML5:
->  [Exercício: Criando uma lista.](html/Exercicio%20Listas.html)
+  > [Exercício: Criando uma lista.](html/Exercicio%20Listas.html)
