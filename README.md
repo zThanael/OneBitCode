@@ -1,7 +1,7 @@
 # OneBitCode
 ![Logo](https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/logo-obc-2021-lightbg.png)
 
-<div style="text-align: right"> Repositório para acompanhar o curso de FullStack do OneBitCode. </div>
+<div style="text-align: right"> Repositório para acompanhar o curso de <strong>Programação FullStack do OneBitCode.</strong> </div>
 
  ---
 
