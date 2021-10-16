@@ -9,9 +9,9 @@
  - O curso de programação **JavaScript Full Stack** da OneBitCode, envolve desde os tópicos iniciantes para quem esta iniciando na área até tópicos avançados para quem já possui conhecimentos na área.
 -  Tecnologias abordadas durante o curso:
   <strong>
-  <markdown><li> HTML5. </li>
+  <blockquote><li> HTML5. </li>
             <li> CSS3. </li>
-  </markdown>
+  </blockquote>
   > - Bulma.
   > - Javascript Moderno (ES6+).
   > - React.
