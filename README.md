@@ -1,7 +1,7 @@
 # OneBitCode
 ![Logo](https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/7ba73aaa-3da9-4cf1-abf2-ccc85dea5875/uid_3592131/logo-obc-2021-lightbg.png)
 
-<div style="text-align: right"> Repositório para acompanhar o curso de <strong>Programação FullStack do OneBitCode.</strong> </div>
+<i><h4 align='right'> Repositório para acompanhar o curso de <strong>Programação FullStack do OneBitCode.</strong> </h4></i>
 
  ---
 
@@ -9,8 +9,9 @@
  - O curso de programação **JavaScript Full Stack** da OneBitCode, envolve desde os tópicos iniciantes para quem esta iniciando na área até tópicos avançados para quem já possui conhecimentos na área.
 -  Tecnologias abordadas durante o curso:
   <strong>
-  > - HTML5.
-  > - CSS3.
+  <markdown><li> HTML5. </li>
+            <li> CSS3. </li>
+  </markdown>
   > - Bulma.
   > - Javascript Moderno (ES6+).
   > - React.
