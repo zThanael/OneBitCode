@@ -6,19 +6,20 @@
  ---
 
 # Sobre:
- - O curso de programação **JavaScript Full Stack** da OneBitCode, envolve desde os tópicos iniciantes para quem esta iniciando na área até tópicos avançados para quem já possui conhecimentos na área.
--  Tecnologias abordadas durante o curso:
-  <strong>
-  <blockquote><li> HTML5. </li>
-            <li> CSS3. </li>
-  </blockquote>
-  > - Bulma.
-  > - Javascript Moderno (ES6+).
-  > - React.
-  > - NodeJs.
-  > - MongoDB.
-  </strong>
--  O curso proporciona o aprendizado por meios de projetos, como por exemplo a criação de um **APP Clone do Evernote.**
+ O curso de programação **JavaScript Full Stack** da OneBitCode, envolve desde os tópicos iniciantes para quem esta iniciando na área até tópicos avançados para quem já possui conhecimentos na área.
+ <li> Tecnologias abordadas durante o curso:</li>
+<strong>
+    <blockquote>
+        <li> HTML5. </li>
+        <li> CSS3. </li>
+        <li> Bulma. </li>
+        <li> Javascript Moderno (ES6+). </li>
+        <li> React. </li>
+        <li> NodeJs. </li>
+        <li> MongoDB. </li>
+    </blockquote>
+</strong>
+   <li> O curso proporciona o aprendizado por meios de projetos, como por exemplo a criação de um <strong>APP Clone do Evernote.</strong></li>
 
 
 > <i><h4 align='right'> Caso queira saber mais a respeito do curso, acesse <strong><a href='https://go.hotmart.com/J61015581D'> OneBitCode.</a></strong></h4></i>
