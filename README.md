@@ -42,5 +42,6 @@ Adquirir conhecimento sobre a programação de um modo geral, utilizando do curs
 </p>
 <blockquote>
     <li>Exercício: <a href='html/Exercicio%20Listas.html'>Criando uma lista.</a></li>
-    <li>Exercício: <a href='https://github.com/zThanael/OneBitCode/tree/main/html/Exercicio%20Guia%20de%20Galaxias'> Guia das Galáxias. </a></li>
+    <li>Exercício: <a href='html/Exercicio%20Guia%20de%20Galaxias'> Guia das Galáxias. </a></li>
+    <li>Exercício: <a href='html/Exercício%20Criando%20sua%20primeira%20Tabela.html'> Criando sua primeira Tabela. </a></li>
 </blockquote>
