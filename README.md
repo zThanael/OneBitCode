@@ -45,5 +45,5 @@ Adquirir conhecimento sobre a programação de um modo geral, utilizando do curs
     <li>Exercício: <a href='html/Exercicio%20Guia%20de%20Galaxias'> Guia das Galáxias. </a></li>
     <li>Exercício: <a href='html/Exercício%20Criando%20sua%20primeira%20Tabela.html'> Criando sua primeira Tabela. </a></li>
     <li>Exercício: <a href='html/Exercicio%20Criando%20seu%20primeiro%20Form.html'> Criando seu primeiro Form. </a></li>
-    <li>Exercício: <a href='html/Exercicio%20Criando%20um%20site%20completo.html'> Criando um site completo. </a></li>
+    <li>Exercício: <a href='html/Exercicio%20Criando%20um%20site%20completo'> Criando um site completo. </a></li>
 </blockquote>
